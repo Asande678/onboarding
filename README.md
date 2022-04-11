@@ -56,9 +56,9 @@ This website https://municipalities.co.za/municipalities/type/2/district lists S
 This website https://municipalities.co.za/municipalities/type/1/metropolitan lists South African Major Metropolitans into two columns, Municipality and Province.
 
 
-These websites get their data from a source that is similar to this link: https://https://sfrs-j75dy.ondigitalocean.app/api/listDistricts
+These websites get their data from a source that is similar to this link: POST https://sfrs-j75dy.ondigitalocean.app/api/listDistricts
 
-Your task is to interact with this API source: https://https://sfrs-j75dy.ondigitalocean.app/api/listDistricts and use the fetched data to either:
+Your task is to interact with this API source: POST https://sfrs-j75dy.ondigitalocean.app/api/listDistricts and use the fetched data to either:
 
 1. Create a table showing the Districts and what Province they belong to, OR
 2. Create a table showing only the major Municipalities and their Province.
@@ -73,3 +73,4 @@ When you are ready to make your contribution, you can then:
  4. Issue pull request
  
 Congratulations! You have now made your (first) contribution to the KZN Sports Confederation repository.
+Completed by Asande----
